@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SLOT\nMACHINE</string>
+    <string name="btnJogar">JOGAR</string>
+    <string name="btnCredito">CREDITOS</string>
+    <string name="ivRoletas">ROLETAS</string>
+    <string name="tvMultiplicador1">x10</string>
+    <string name="tvMultiplicador2">x8</string>
+    <string name="tvMultiplicador3">x6</string>
+    <string name="tvMultiplicador4">x4</string>
+    <string name="tvMultiplicador5">x2</string>
+    <string name="tvMultiplicador6">x0</string>
+    <string name="tvSaldo">R$ 00500</string>
+    <string name="tvtSaldo">SALDO</string>
+    <string name="tvPartidas">000</string>
+    <string name="tvtPartidas">PARTIDAS</string>
+    <string name="tvPremio">R$ 00000</string>
+    <string name="tvtPremio">PRÊMIO</string>
+    <string name="tvAposta">R$ 00000</string>
+    <string name="tvtAposta">APOSTA</string>
+    <string name="btnMais">+</string>
+    <string name="btnMenos">-</string>
+</resources>
